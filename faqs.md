@@ -91,7 +91,7 @@ You are only billed for bandwidth that is used per IBM Cloud Content Delivery Ne
 
 IBM Cloud Content Delivery Network billing occurs according to the billing period established in your {{site.data.keyword.cloud_notm}} Account.
 
-## If I select `delete` from the CDN's Overflow menu, does that delete my account?
+## If I select `Delete` from the Overflow menu, does that delete my account?
 {: faq}
 {: support}
 
